@@ -1,0 +1,38 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+}
+
+.login-box {
+    width: 350px;
+    background-color: white;
+    margin: 80px auto;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 95%;
+    padding: 8px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+button:hover {
+    background-color: darkblue;
+}
