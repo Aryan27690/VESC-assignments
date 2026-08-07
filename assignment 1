@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Student Login</title>
+
+    <link rel="stylesheet" href="abc.css">
+</head>
+
+<body>
+
+    <div class="login-box">
+
+        <h2>Student Login</h2>
+
+        <form>
+
+            <label>Name</label><br>
+            <input type="text" placeholder="Enter Name"><br><br>
+
+            <label>Roll Number</label><br>
+            <input type="text" placeholder="Enter Roll Number"><br><br>
+
+            <label>Login ID</label><br>
+            <input type="text" placeholder="Enter Login ID"><br><br>
+
+            <label>Password</label><br>
+            <input type="password" placeholder="Enter Password"><br><br>
+
+            <button>Login</button>
+
+        </form>
+
+    </div>
+
+</body>
+
+</html>
