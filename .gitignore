@@ -1,0 +1,13 @@
+# Ignore common editor and OS files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore node dependencies if any
+node_modules/
+
+# Ignore build artifacts
+dist/
+build/
