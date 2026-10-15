@@ -1,0 +1,62 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/001/836/108/small/abstract-grey-background-poster-with-dynamic-design-vector.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#btn {
+    font-size: 13px;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    height: 45px;
+    margin-left: 15px;
+    width: 90px;
+    cursor: pointer;
+    font-size: 15px;
+    transition: all 0.5s ease,
+        font-size 0.5s ease;
+    border-radius: 50px;
+}
+
+#btn:hover {
+    font-size: 17px;
+    background-color: red;
+}
+
+#head {
+    margin-top: 50px;
+}
+
+.res {
+    display: flex;
+    gap: 40px;
+}
+
+table {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 10px;
+    height: 100px;
+    width: 800px;
+    background-color: rgb(255, 252, 252);
+    border: 2px solid black;
+    font-weight: 500;
+    box-shadow: 2px 5px 5px rgb(14, 14, 14);
+}
+
+h2 h4 {
+    font-weight: bolder;
+}
+
+input {
+    box-shadow: 2px 5px 5px rgb(14, 14, 14);
+    border-radius: 50px;
+    font-weight: 500;
+    padding-left: 15px;
+    height: 35px;
+    width: 220px;
+    font-size: 16px;
+}
